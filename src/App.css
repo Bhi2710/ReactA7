@@ -1,0 +1,31 @@
+body,h1,h2,h3,h4,h5,h6,p,span{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+.Main{
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+.left_container{
+  width: 70vh;
+  height: calc(80vh - 4px);
+  border: 2px solid black;
+  overflow-y: scroll;
+}
+
+.right_container{
+  width: 70vh;
+  height: 80vh;
+  background-color: #F1F5F8;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: capitalize;
+}
+
+
+
+
+
